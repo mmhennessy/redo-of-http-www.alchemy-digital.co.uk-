@@ -2,14 +2,14 @@
   max-width: 33%;
   float: left;
 }
-img {
-  float: right;
-}
 #team {
   max-width: 33%;
   float: right;
 }
+img {
+  size: 50%;
+}
 .online {
   color: white;
-  background-color: #ec4a59; 
+  background-color: #ec4a59;
 }

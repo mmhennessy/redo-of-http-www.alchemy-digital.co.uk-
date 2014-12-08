@@ -1,14 +1,14 @@
 html {
   text-align: center;
-  font-family:Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   margin: 15px 15px 5px 15px;
-  max-width: 900px;
+  width: 1000px;
 }
 h1 {
-  font-size: 24px;
+  font-size: 30px;
 }
 h2 {
-  font-size: 20px;
+  font-size: 28px;
 }
 p {
   font-size: 14px;
@@ -16,6 +16,19 @@ p {
 li {
   font-family: Cambria, sans-serif;
   font-size: 12px;
+}
+.main-nav {
+  text-decoration: none;
+}
+.main-nav li {
+  display: inline-block;
+  padding: 25px;
+}
+.main-nav li a:hover {
+  text-decoration: underline;
+}
+#capps {
+  font size: 24px;
 }
 .digital {
   background-color: #2abda3;
