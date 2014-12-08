@@ -1,0 +1,16 @@
+#for {
+  max-width: 33%;
+  float: left;
+}
+#work {
+  max-width: 33%;
+  float: right;
+}
+#build {
+  max-width: 33%;
+  float: right;
+}
+.app {
+  color: white;
+  background-color: #4cc7f5;
+}

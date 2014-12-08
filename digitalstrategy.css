@@ -1,0 +1,17 @@
+
+#develop {
+  max-width: 33%;
+  float: left;
+}
+#your {
+  max-width: 33%;
+  float: right;
+}
+#world {
+  max-width: 33%;
+  float: right;
+}
+.digit {
+  font-color: white;
+  background-color: #2abda3;
+}

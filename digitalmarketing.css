@@ -1,0 +1,15 @@
+#numbers {
+  max-width: 33%;
+  float: left;
+}
+img {
+  float: right;
+}
+#team {
+  max-width: 33%;
+  float: right;
+}
+.online {
+  color: white;
+  background-color: #ec4a59; 
+}
