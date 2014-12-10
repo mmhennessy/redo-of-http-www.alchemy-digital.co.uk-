@@ -1,0 +1,44 @@
+html {
+  text-align: center;
+  background-color: #0da0e4;
+}
+.tea {
+  width: 900px;
+  hieght: 300px;
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+}
+#drink img {
+  float: left;
+}
+.tea p {
+  max-width: 33%;
+  float: right;
+  text-align: center;
+}
+#phone img {
+  float: right;
+}
+.ipod {
+  width: 900px;
+  hieght: 300px;
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+}
+#visit img {
+  float: left;
+}
+.ipod p {
+  max-width: 33%;
+  float: right;
+  text-align: center;
+}
+#pen img {
+  float: right;
+}
+footer {
+  background-color: black;
+  color: #fff;
+}

@@ -2,7 +2,6 @@ html {
   text-align: center;
   font-family: Helvetica, sans-serif;
   margin: 15px 15px 5px 15px;
-  width: 1000px;
 }
 h1 {
   font-size: 30px;
@@ -18,24 +17,79 @@ li {
   font-size: 12px;
 }
 .main-nav {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .main-nav li {
   display: inline-block;
-  padding: 25px;
+  padding: 20px;
+}
+.main-nav li a {
+  color: black;
 }
 .main-nav li a:hover {
   text-decoration: underline;
 }
-#capps {
-  font size: 24px;
+.symbol img {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.main img {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 .digital {
+  background-color: #2abda3;
+}
+.digital p {
+  background-color: #2abda3;
+  margin: 0px;
+  padding: 0px;
+}
+.digital h2 {
+  background-color: #2abda3;
+  margin: 0px;
+  padding: 0px;
+}
+.digital a {
+  margin: 0px;
+  padding: 0px;
   background-color: #2abda3;
 }
 .websites {
   background-color: #edd02d;
 }
+.websites p {
+  background-color: #edd02d;
+  margin: 0px;
+  padding: 0px;
+}
+.websites h2 {
+  background-color: #edd02d;
+  margin: 0px;
+  padding: 0px;
+}
 .markwting {
-  background-color: #ec4a59;
+  background-color: #f2346a;
+}
+.marketing p {
+  background-color: #f2346a;
+  margin: 0px;
+  padding: 0px;
+}
+.marketing h2 {
+  background-color: #f2346a;
+  margin: 0px;
+  padding: 0px;
+}
+.marketing a {
+  margin: 0px;
+  padding: 0px;
+  background-color: #f2346a;
+}
+.blue {
+  background-color: #0da0e4;
+}
+footer {
+  background-color: black;
+  color: #fff;
 }

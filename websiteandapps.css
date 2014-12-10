@@ -11,6 +11,10 @@
   float: right;
 }
 .app {
-  color: white;
-  background-color: #4cc7f5;
+  color: #fff;
+  background-color: #187ead;
+}
+footer {
+  background-color: black;
+  color: #fff;
 }

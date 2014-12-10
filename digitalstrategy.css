@@ -14,4 +14,10 @@
 .digit {
   font-color: white;
   background-color: #2abda3;
+  padding: 0px;
+  margin: 0px;
+}
+footer {
+  background-color: black;
+  color: #fff;
 }
