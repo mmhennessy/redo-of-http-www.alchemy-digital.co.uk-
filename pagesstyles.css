@@ -2,18 +2,22 @@ html {
   text-align: center;
   font-family: Helvetica, sans-serif;
   margin: 15px 15px 5px 15px;
+  line-height: 1.5em;
+  width: 1300px;
+  height: 2500px
+  border: 1px solid black;
 }
-h1 {
-  font-size: 30px;
-}
-h2 {
-  font-size: 28px;
+h1 h2 {
+  font-size: 36px;
+  font-family: times, sans-serif;
+  font-weight: bold;
 }
 p {
-  font-size: 14px;
+  font-size: 16px;
+  Font-family: Cambria, Arial, sans-serif;
 }
 li {
-  font-family: Cambria, sans-serif;
+  font-family: Cambria times, sans-serif;
   font-size: 12px;
 }
 .main-nav {
@@ -72,24 +76,35 @@ li {
   background-color: #f2346a;
 }
 .marketing p {
-  background-color: #f2346a;
   margin: 0px;
   padding: 0px;
 }
 .marketing h2 {
-  background-color: #f2346a;
   margin: 0px;
   padding: 0px;
 }
 .marketing a {
   margin: 0px;
   padding: 0px;
-  background-color: #f2346a;
-}
-.blue {
-  background-color: #0da0e4;
 }
 footer {
+  text-align: center;
   background-color: black;
   color: #fff;
+}
+.footer-nav {
+  text-decoration: underline;
+  background-color: black;
+  margin: 0px;
+}
+.footer-nav li {
+  display: inline-block;
+  padding: 20px;
+  color: #fff;
+}
+.footer-nav li a {
+  color: #fff;
+}
+.footer-nav li a:hover {
+  text-decoration: underline;
 }
