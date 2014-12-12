@@ -1,6 +1,27 @@
 html {
   text-align: center;
 }
+.main-nav {
+  text-decoration: underline;
+}
+.main-nav li {
+  display: inline-block;
+  padding: 20px;
+}
+.main-nav li a {
+  color: black;
+}
+.main-nav li a:hover {
+  text-decoration: underline;
+}
+.symbol img {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.main img {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
 .grow {
   margin-left: 50px;
   padding-left: 20px;
@@ -25,7 +46,7 @@ html {
 }
 .online {
   color: #fff;
-  background-color: #f2346a
+  background-color: #c02a54;
 }
 footer {
   background-color: black;

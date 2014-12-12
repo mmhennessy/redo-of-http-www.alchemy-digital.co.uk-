@@ -3,26 +3,22 @@ html {
   background-color: #0da0e4;
 }
 .tea {
-  width: 900px;
-  hieght: 300px;
   text-align: center;
-  margin: 0px;
+  width: 900px;
   padding: 10px;
 }
-#drink img {
+#drink {
   float: left;
 }
 .tea p {
   max-width: 33%;
-  float: right;
+  float: left;
   text-align: center;
 }
-#phone img {
+#phone {
   float: right;
 }
 .ipod {
-  width: 900px;
-  hieght: 300px;
   text-align: center;
   margin: 0px;
   padding: 10px;
@@ -32,7 +28,7 @@ html {
 }
 .ipod p {
   max-width: 33%;
-  float: right;
+  float: left;
   text-align: center;
 }
 #pen img {

@@ -1,4 +1,24 @@
-
+.main-nav {
+  text-decoration: underline;
+}
+.main-nav li {
+  display: inline-block;
+  padding: 20px;
+}
+.main-nav li a {
+  color: black;
+}
+.main-nav li a:hover {
+  text-decoration: underline;
+}
+.symbol img {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.main img {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
 #develop {
   max-width: 33%;
   float: left;
@@ -12,7 +32,7 @@
   float: right;
 }
 .digit {
-  font-color: white;
+  font-color: #fff;
   background-color: #2abda3;
   padding: 0px;
   margin: 0px;
